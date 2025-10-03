@@ -5,6 +5,7 @@ class Colima < Formula
       tag:      "v0.9.1",
       revision: "0cbf719f5409ce04b9f0607b681c005d2ff7d94a"
   license "MIT"
+  revision 1
   head "https://github.com/abiosoft/colima.git", branch: "main"
 
   livecheck do
